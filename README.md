@@ -19,3 +19,5 @@ ngrok <proto> <addr>
 proto：tcp或者http
 
 addr：[host][:[port]]/[url]可以只输入host，如果是https，port默认443；如果是http，port默认80；也可以只输入port
+
+后台应该在127.0.0.1:4040
